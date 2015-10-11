@@ -74,10 +74,8 @@ def main():
             usage()
         if o in ("-u", "--url"):
             url = a
-            print url
         if o in ("-t", "--title"):
             title = a
-            print title
 
 
 
